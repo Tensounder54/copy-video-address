@@ -2,11 +2,11 @@
 
 ## Right click on videos to copy the guilded cdn link and not the media link.
 
-This is an addon for [ReGuilded]https://www.reguilded.dev/) but to use it you must first install
+This is an addon for [ReGuilded](https://www.reguilded.dev/) but to use it you must first install
 
 ## Addon Installation
 
-Install and extract the ZIP file for the addon you want from [here](https://github.com/levisurely/levguilded/releases) and add the folder into `users/you/AppData/roaming/.reguilded/addons` (on windows).
+Install and extract the ZIP file for the addon you want from [here]() and add the folder into `users/you/AppData/roaming/.reguilded/addons` (on windows).
 
 To uninstall delete the source folder in `users/you/AppData/roaming/.reguilded/addons` (on windows).
 
